@@ -7,3 +7,5 @@ In the images below the orange dot represents the robot's starting point and the
 ![Map 1](map1.png)
 ![Map 2](map2.png)
 ![Map 3](map3.png)
+
+[Video Explanation]([URL](https://youtu.be/ay2QFU-9YuE?si=pu_m3_tSAQAoSyQ_))
